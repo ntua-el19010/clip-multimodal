@@ -1,4 +1,4 @@
-# clip-multimodal
+# Multimodal Neurons in CLIP
 A project for Pattern Recognition course at ECE NTUA experimenting with CLIP's multimodal neurons.
 
 Panteleimon Emmanouil (03119018)
